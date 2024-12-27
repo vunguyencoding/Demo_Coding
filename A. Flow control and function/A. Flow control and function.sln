@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Calculate the formula", "1. Calculate the formula\1. Calculate the formula.csproj", "{8104AA3E-427A-468C-BAD0-B2C08E5DA4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Approximation calculation", "2. Approximation calculation\2. Approximation calculation.csproj", "{46B9A00D-400C-4A86-8F96-B5FA08B62662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8104AA3E-427A-468C-BAD0-B2C08E5DA4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8104AA3E-427A-468C-BAD0-B2C08E5DA4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8104AA3E-427A-468C-BAD0-B2C08E5DA4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8104AA3E-427A-468C-BAD0-B2C08E5DA4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B9A00D-400C-4A86-8F96-B5FA08B62662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B9A00D-400C-4A86-8F96-B5FA08B62662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B9A00D-400C-4A86-8F96-B5FA08B62662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B9A00D-400C-4A86-8F96-B5FA08B62662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

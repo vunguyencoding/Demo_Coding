@@ -1,0 +1,14 @@
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\bin\Debug\net9.0\1. Calculate the formula.exe
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\bin\Debug\net9.0\1. Calculate the formula.deps.json
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\bin\Debug\net9.0\1. Calculate the formula.runtimeconfig.json
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\bin\Debug\net9.0\1. Calculate the formula.dll
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\bin\Debug\net9.0\1. Calculate the formula.pdb
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\1. Calculate the formula.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\1. Calculate the formula.AssemblyInfoInputs.cache
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\1. Calculate the formula.AssemblyInfo.cs
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\1. Calculate the formula.csproj.CoreCompileInputs.cache
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\1. Calculate the formula.dll
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\refint\1. Calculate the formula.dll
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\1. Calculate the formula.pdb
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\1. Calculate the formula.genruntimeconfig.cache
+E:\coding\coding\codingC#\A. Flow control and function\1. Calculate the formula\obj\Debug\net9.0\ref\1. Calculate the formula.dll

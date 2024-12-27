@@ -1,0 +1,14 @@
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\bin\Debug\net9.0\2. Approximation calculation.exe
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\bin\Debug\net9.0\2. Approximation calculation.deps.json
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\bin\Debug\net9.0\2. Approximation calculation.runtimeconfig.json
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\bin\Debug\net9.0\2. Approximation calculation.dll
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\bin\Debug\net9.0\2. Approximation calculation.pdb
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\2. Approximation calculation.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\2. Approximation calculation.AssemblyInfoInputs.cache
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\2. Approximation calculation.AssemblyInfo.cs
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\2. Approximation calculation.csproj.CoreCompileInputs.cache
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\2. Approximation calculation.dll
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\refint\2. Approximation calculation.dll
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\2. Approximation calculation.pdb
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\2. Approximation calculation.genruntimeconfig.cache
+E:\coding\coding\codingC#\A. Flow control and function\2. Approximation calculation\obj\Debug\net9.0\ref\2. Approximation calculation.dll
