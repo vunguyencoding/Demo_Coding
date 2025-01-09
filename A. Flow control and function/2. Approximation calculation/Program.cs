@@ -8,13 +8,7 @@ while (!int.TryParse(Console.ReadLine(), out n) || n < 0)// Lặp cho đến khi
     Console.WriteLine("Please enter a non-negative integer:"); // Thông báo nhập lại nếu giá trị không hợp lệ
 }
 
-Console.Write("Enter the desired accuracy (epsilon): ");
-double epsilon;
-
-while (!double.TryParse(Console.ReadLine(), out epsilon) || epsilon <= 0)
-{
-    Console.Write("Invalid input. Please enter a positive number for epsilon: ");
-}
+double epsilon = 0.00000001;
 
 //=========================================== ApproximatePi ===========================
 double ApproximatePi(double epsilon)
@@ -33,14 +27,18 @@ double ApproximatePi(double epsilon)
     return sum * 4;
 }
 //======================================== ApproximateSin ==================================
-double Factorial(int n)
+double Factorial(int num)
 {
-    double result = 1.0;
-    for (int i = 2; i <= n; i++)
+    if (num == 0 || num == 1)
+        return 1;
+
+    double fact = 1;
+    for (int i = 2; i <= num; i++)
     {
-        result *= i;
+        fact *= i;
     }
-    return result;
+
+    return fact;
 }
 double ApproximateSin(double x, double epsilon)
 {
@@ -57,7 +55,6 @@ double ApproximateSin(double x, double epsilon)
 
     return sum;
 }
-
 
 
 Console.WriteLine("Approximations with epsilon = " + epsilon);
