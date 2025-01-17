@@ -1,0 +1,14 @@
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\bin\Debug\net9.0\Coursemanagement.exe
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\bin\Debug\net9.0\Coursemanagement.deps.json
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\bin\Debug\net9.0\Coursemanagement.runtimeconfig.json
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\bin\Debug\net9.0\Coursemanagement.dll
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\bin\Debug\net9.0\Coursemanagement.pdb
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\Coursemanagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\Coursemanagement.AssemblyInfoInputs.cache
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\Coursemanagement.AssemblyInfo.cs
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\Coursemanagement.csproj.CoreCompileInputs.cache
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\Coursemanagement.dll
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\refint\Coursemanagement.dll
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\Coursemanagement.pdb
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\Coursemanagement.genruntimeconfig.cache
+E:\coding\coding\codingC#\B. Object-oriented programming\Coursemanagement\obj\Debug\net9.0\ref\Coursemanagement.dll
